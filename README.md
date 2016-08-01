@@ -16,8 +16,8 @@ Preliminary results against the public data set: [result.tsv](result.tsv)
     * the basic reductions
     * persistency reduction
     * + several heuristic reductions
-  * Using the following lewer bound to prune the search
-    * k-submodular relaxation lower bound
+  * Using the following lewer bounds to prune the search
+    * k-submodular relaxation lower bound computed by the efficient augmenting-path algorithm
     * lower bound used for bounding the kernel size ([LowerBound.java](src/LowerBound.java))
 
 ## Required
