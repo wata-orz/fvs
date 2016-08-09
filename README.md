@@ -4,7 +4,7 @@ This is an exact solver for feedback vertex set problem and was submitted to the
 Preliminary results against the public data set: [result.tsv](result.tsv)
 
 ## Implemented algorithms
- * Linear-time kernel (unpublished) ([ReductionRoot.java](src/ReductionRoot.java))
+ * Linear-time kernel (http://arxiv.org/abs/1608.01463) ([ReductionRoot.java](src/ReductionRoot.java))
   * This algorithm runs in O(k^4 m) time, where k is the solution size, and produces an equivalent instance of size at most 2k^2+k vertices and 4k^2 edges.
   * Using the following set of reductions:
     * the basic reductions (self-loop, degree at most 2)
