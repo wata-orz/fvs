@@ -1,6 +1,6 @@
 # feedback vertex set solver
 
-This is an exact solver for feedback vertex set problem and was submitted to the 1st Parameterized Algorithms and Computational Experiments Challenge (<https://pacechallenge.wordpress.com/track-b-feedback-vertex-set/>).
+This is an exact solver for feedback vertex set problem that won 1st place in the 1st Parameterized Algorithms and Computational Experiments Challenge (<https://pacechallenge.wordpress.com/track-b-feedback-vertex-set/>).
 Preliminary results against the public data set: [result.tsv](result.tsv)
 
 ## Implemented algorithms
